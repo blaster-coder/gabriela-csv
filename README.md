@@ -19,4 +19,4 @@ Cal completar la part del codi que crea el fitxer alta_alumnes.csv afegint el co
 git clone https://github.com/blaster-coder/gabriela-csv
 cd gabriela-csv
 
-RECORDA QUE HAS DE CONTRUBIR EN AQUESTA APP, DESENVOLUPA LA FUNCIÓ escriure_csv 
+RECORDA QUE HAS DE CONTRIBUIR  EN AQUESTA APP, DESENVOLUPA LA FUNCIÓ escriure_csv 
